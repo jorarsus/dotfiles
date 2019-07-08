@@ -11,7 +11,7 @@
 	ui = true
 
 [include]
-	path = ~/.gitconfig.aliases
+	path = .gitconfig.aliases
 
 [filter "lfs"]
 	clean = git-lfs clean -- %f
